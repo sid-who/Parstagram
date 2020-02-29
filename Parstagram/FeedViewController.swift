@@ -57,7 +57,7 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         let url = URL(string: urlString)!
         
         //testing only, to confirm that the cell does work. (It does.)
-        //let url = URL(string: "https://i.imgur.com/3QJK70t.jpg")!
+        //let url = URL(string: "https://i.imgur.com/vhOYZ25.jpg")!
         
         print(url)
         
