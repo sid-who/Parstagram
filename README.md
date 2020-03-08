@@ -50,4 +50,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/Users/gurpreet/Desktop/iOS Development, Spring 2020/Parstagram/gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Hvptc3E.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
